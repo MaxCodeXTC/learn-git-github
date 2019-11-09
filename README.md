@@ -1,72 +1,29 @@
 # Learn Git and Github
 
-1. Download Free eBook: https://codingwithbasir.com/download
-2. Fork and Clone This repository
-3. Code Project A1
-4. Send a Pull Request
-5. Let me know to review your code: [basir.jafaradeh@gmail.com](mailto:basir.jafaradeh@gmail.com)
+1. [Download free eBook](https://codingwithbasir.com/download)
+2. Code following projects
+3. Deliver projects to me ([How To](https://codingwithbasir.com/how-to-deliver-projects/))
+4. I review your code and give you feedback.
+5. Have questions? Email [basir.jafaradeh@gmail.com](mailto:basir.jafaradeh@gmail.com)
 
-## COMMAND LINE
+## Projects
 
-[Project A1: Backup Files](project-git-a1-command-line)
+- [Project A1 Command-line ](project-git-a1-command-line)
 
-- ls
-- Filesystem
-- pwd
-- cd I
-- cd II
-- mkdir
-- touch
+- [Project B1 Introduction to git ](project-git-b1-introduction-to-git)
 
-## INTRODUCTION TO GIT
+- [Project C1 How to Backtrack ](project-git-c1-how-to-backtrack)
 
-[Project B1: Creat Repo](project-git-a1-command-line)
+- [Project D1 D1 Git Branching ](project-git-d1-git-branching)
 
-- git init
-- Git Workflow
-- git status
-- git add
-- git diff
-- git commit
-- git log
+- [Project E1 Git Teamwork ](project-git-e1-git-teamwork)
 
-## HOW TO BACKTRACK
+- [Project F1 Github ](project-git-f1-github)
 
-- head commit
-- git checkout
-- more git add
-- git reset I
-- git reset II
+## Want to get reviewed?
 
-## GIT BRANCHING
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
 
-- branching overview
-- git checkout
-- commit on a new branch
-- git merge
-- merge conflict I
-- merge conflict II
-- delete branch
+## Need help?
 
-## GIT TEAMWORK
-
-- git clone
-- git remote -v
-- git fetch
-- git merge
-- Git workflow
-- git push
-
-## GITHUB
-
-- What is GitHub?
-- Create a GitHub Account
-- Git Setup for Mac
-- Git Setup for Windows
-- Connect to GitHub through ssh
-- Check for existing keys
-- Generating a new SSH key
-- Adding SSH key to the ssh-agent
-- Adding the SSH key to your GitHub account
-- Try It Out!
-- Your First Remote Repository on GitHub
+Download Free eBook https://codingwithbasir.com/download
